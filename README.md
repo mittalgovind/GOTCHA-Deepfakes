@@ -83,7 +83,7 @@ The validation dataset consists of the remaining 12 out of 47 target identities,
 
 We release the instruments we used for human evaluation at [https://app.gorilla.sc/openmaterials/693684](https://app.gorilla.sc/openmaterials/693684) (with active preview).
 
-The dataset of 200 videos as described in the paper can be found in *human_evaluation* folder. The naming convention is “<generator>_<challenge_idx>_<target>_<imposter>.mp4”. 
+The dataset of 200 videos as described in the paper can be found in *human_evaluation* folder. The naming convention is “generator_challenge_idx_target_imposter.mp4”. 
 
 
 ## Potential Use-cases for Original videos:
