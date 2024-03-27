@@ -11,20 +11,20 @@ The dataset is accessible via Box.com, which offers high availability worldwide 
 
 ### Dataset Statistics:
 
-Number of folder (or videos):
-    Original : 675 (673k frames with 3 frame sizes each)
-    Fake (DFL) : 26,085 (5.0M frames)
-    Fake (Adaptive - DFL) : 7,215 (1.3M frames)
-    Fake (FSGAN) : 25,433 (4.6M frames)
-    Fake (LIA) : 25,662 (5.0M frames)
+**Number of folder (or videos):**
+- Original : 675 (673k frames with 3 frame sizes each)
+- Fake (DFL) : 26,085 (5.0M frames)
+- Fake (Adaptive - DFL) : 7,215 (1.3M frames)
+- Fake (FSGAN) : 25,433 (4.6M frames)
+- Fake (LIA) : 25,662 (5.0M frames)
 
-DFL quantized ready-to-use models : 60
+**DFL quantized ready-to-use models** : 60
 
-Fidelity Score Dataset:
-    Fake : 49,603 videos (32 frames each, 1.35M frames total)
-    Real : 816 videos (32 frames each, 22k frames total)
+**Fidelity Score Dataset:**
+- Fake : 49,603 videos (32 frames each, 1.35M frames total)
+- Real : 816 videos (32 frames each, 22k frames total)
 
-Human evaluation dataset: 200 videos
+**Human evaluation dataset:** 200 videos
 
 
 ### Original Samples
