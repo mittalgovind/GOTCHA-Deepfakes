@@ -1,6 +1,8 @@
 # GOTCHA
 Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response"
 
+![Types of Challenges](assets/gotcha_front_teaser.png)
+
 ## Dataset Information for GOTCHA
 
 We release the dataset for non-commercial research. Submit requests <a href="https://forms.gle/6WPEGNWbYoEe6bte8" target="_blank">here</a>.
