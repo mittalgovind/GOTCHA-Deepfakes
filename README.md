@@ -1,7 +1,7 @@
 # GOTCHA
 Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response".
 
-Accepted to 9th IEEE European Symposium on Security and Privacy 2024.
+**Accepted to 9th IEEE European Symposium on Security and Privacy 2024.**
 
 ![Types of Challenges](assets/gotcha_front_teaser.png)
 
