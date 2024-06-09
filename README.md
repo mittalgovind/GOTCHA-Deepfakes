@@ -7,7 +7,7 @@ Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challeng
 
 ## Dataset Information for GOTCHA
 
-We release the dataset for non-commercial research. Submit requests <a href="https://forms.gle/6WPEGNWbYoEe6bte8" target="_blank">using this Google form</a> or send ![this signed form](assets/gotcha_form_data_release.pdf) to <a href="mailto:mittal@nyu.edu">this email</a> with your organizational email, along with a valid link to verify your identity.
+We release the dataset for non-commercial research. Submit requests <a href="https://forms.gle/6WPEGNWbYoEe6bte8" target="_blank">using this Google form</a> or send ![this signed form](assets/gotcha_data_release_form.pdf) to <a href="mailto:mittal@nyu.edu">this email</a> with your organizational email, along with a valid link to verify your identity.
 
 The dataset consists of three parts: Original Samples, Deepfakes, and the Fidelity Score Dataset.
 
