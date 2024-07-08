@@ -1,5 +1,5 @@
 # GOTCHA
-Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response".
+Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response". [ArXiv Link](https://arxiv.org/pdf/2210.06186).
 
 **Accepted to 9th IEEE European Symposium on Security and Privacy 2024.**
 
@@ -7,7 +7,7 @@ Official Repository for "GOTCHA: Real-Time Video Deepfake Detection via Challeng
 
 ## Dataset Information for GOTCHA
 
-We release the dataset for non-commercial research. Submit requests <a href="https://forms.gle/6WPEGNWbYoEe6bte8" target="_blank">using this Google form</a> or send ![this signed form](assets/gotcha_data_release_form.pdf) to <a href="mailto:mittal@nyu.edu">mittal@nyu.edu</a> with your organizational email, along with a valid link to verify your identity.
+We release the dataset for non-commercial research. Submit requests <a href="https://forms.gle/6WPEGNWbYoEe6bte8" target="_blank">using this Google form</a> or send [this signed form](assets/gotcha_data_release_form.pdf) to <a href="mailto:mittal@nyu.edu">mittal@nyu.edu</a> with your organizational email, along with a valid link to verify your identity.
 
 The dataset consists of three parts: Original Samples, Deepfakes, and the Fidelity Score Dataset.
 
